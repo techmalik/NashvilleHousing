@@ -1,3 +1,5 @@
+-- *****Cleaning Nashville Housing data***** --
+
 SELECT *
 FROM PortfolioProject..Nashville as nash
 
